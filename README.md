@@ -38,7 +38,7 @@ df2 = df.groupby(['nFlows','RngRun'])['Throughput'].sum().reset_index()
 Next, we can easily calculate the average (mean) aggregate throughput as a function of the number of flows and plot the results:
 
 ```python
-df2.groupby(['nWifi'])['Throughput'].mean().plot()
+df2.groupby(['nFlows'])['Throughput'].mean().plot()
 ```
 
 ## Summary of Features
