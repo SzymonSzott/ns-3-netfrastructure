@@ -5,7 +5,7 @@ an Exemplary Text-based Framework for Running and Analyzing Simulations in [ns-3
 
 The goal of this framework is to provide an all-text-based environment for conducting a complete performance analysis in ns-3.
 
-![](C:\Repo\DCF-simulation\ns3-data-analysis\netfrastructure.png)
+![](netfrastructure.png)
 
 1. The bash script should be configured to run the simulation script with a loop over all input variables (including `RngRun` for independent results and experiment replication).
 2. The ns-3 simulation model should save (append) the output results (e.g., from [FlowMonitor](https://www.nsnam.org/docs/models/html/flow-monitor.html)) into a CSV file.
@@ -71,7 +71,7 @@ The exemplary files in this repository are:
 - `he-wifi-performance.csv` -- an output file containing the results from the simulation model (taken from ns-3.30.1),
 - `plot-he-wifi-performance.py` --  a Python script which generates the plot,
 - `he-wifi-performance.png` -- the resulting line plot (802.11ax network throughput in a 20 MHz channel):
-  ![](C:\Repo\DCF-simulation\ns3-data-analysis\he-wifi-performance.png)
+  ![](he-wifi-performance.png)
 
 ## Acknowledgements
 
