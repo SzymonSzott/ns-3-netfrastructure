@@ -17,7 +17,7 @@ All the above elements are fairly straightforward, but one of the key elements i
 
 | Timestamp | Input  1 | Input 2 | ...  | RngRun | Flow Id | Output 1 | Output 2 | ...  |
 | --------- | -------- | ------- | ---- | ------ | ------- | -------- | -------- | ---- |
-|           |          |         |      |        |         |          |          |      |
+|  ...      |          |         |      |        |         |          |          |      |
 
 - The timestamp is for reference.
 
