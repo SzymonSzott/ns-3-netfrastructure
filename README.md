@@ -82,3 +82,8 @@ This work was partially supported by the Motorola Solutions Foundation. Thanks t
 This framework was used to analyze ns-3 simulation results in the following research papers:
 
 - I. Tinnirello, P. Gallo, S. Szott, and K. Kosek-Szott, "[Impact of LTE’s Periodic Interference on Heterogeneous Wi-Fi Transmissions](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8576599&isnumber=5534602)," in IEEE Communications Letters, vol. 23, no. 2, pp. 342--345, Feb. 2019, doi: 10.1109/LCOMM.2018.2886902, [arxiv.org/abs/1812.08541](https://arxiv.org/abs/1812.08541).
+
+## Author
+
+Szymon Szott, AGH University of Science and Technology  
+[https://szymonszott.github.io/](szymonszott.github.io)
